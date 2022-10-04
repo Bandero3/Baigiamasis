@@ -1,0 +1,126 @@
+{
+  "posts": {
+    "alert": "Įrašų nėra",
+    "apiAlert" : "Kažkas nutiko"
+  },
+  "post": {
+    "alert": "Kažkas nutiko"
+  },
+  "favorites": {
+    "alert": "Neturite mėgstamiausių įrašų"
+  },
+  "searchedPosts": {
+    "alert": "Nėra įrašų su paieškos kriterija: {{query}}",
+    "apiAlert" : "Kažkas nutiko"
+  },
+  "postCreateForm": {
+    "createPost": "Sukurti įrašą",
+    "title": "Pavadinimas",
+    "description": "Aprašymas",
+    "content": "Turinys",
+    "image": "Nuotrauka",
+    "titlePlaceholder": "Įrašo pavadinimas",
+    "descriptionPlaceholder": "Trumpas jūsų įrašo aprašymas",
+    "contentPlaceholder": "Įrašo turinys",
+    "imagePlaceholder": "Įrašo nuotraukos nuoroda",
+    "successAlert": "Įrašas sukurtas sėkmingai",
+    "errorAlert": "Įrašo sukurti nepavyko",
+    "titleMin": "Įrašo pavadinimas turi būti bent 5 simbolių ilgio",
+    "titleMax": "Įrašo pavadinimas turi būti trumpesnis nei 30 simbolių",
+    "titleRequired": "Būtinas įrašo pavadinimas",
+    "descriptionMin": "Įrašo aprašas turi būti bent 5 simbolių ilgio",
+    "descriptionMax": "Įrašo aprašas turi būti trumpesnis nei 30 simbolių",
+    "descriptionRequired": "Būtinas įrašo aprašymas",
+    "contentMin": "Įrašo turinys turi būti bent 5 simbolių ilgio",
+    "contentMax": "Įrašo turinys turi būti trumpesnis nei 500 simbolių",
+    "contentRequired": "Būtinas įrašo turinys",
+    "imageFormat": "Įveskite teisingą nuorodą",
+    "imageRequired": "Būtina įrašo nuorodą",
+    "submit": "Pateikti"
+  },
+  "postUpdateForm": {
+    "updatePost": "Atnaujinti įrašą",
+    "title": "Pavadinimas",
+    "description": "Aprašymas",
+    "content": "Turinys",
+    "image": "Nuotrauka",
+    "titlePlaceholder": "Įrašo pavadinimas",
+    "descriptionPlaceholder": "Trumpas jūsų įrašo aprašymas",
+    "contentPlaceholder": "Įrašo turinys",
+    "imagePlaceholder": "Įrašo nuotraukos nuoroda",
+    "errorAlert": "Įrašo atnaujinti nepavyko",
+    "titleMin": "Įrašo pavadinimas turi būti bent 5 simbolių ilgio",
+    "titleMax": "Įrašo pavadinimas turi būti trumpesnis nei 30 simbolių",
+    "titleRequired": "Būtinas įrašo pavadinimas",
+    "descriptionMin": "Įrašo aprašas turi būti bent 5 simbolių ilgio",
+    "descriptionMax": "Įrašo aprašas turi būti trumpesnis nei 30 simbolių",
+    "descriptionRequired": "Būtinas įrašo aprašymas",
+    "contentMin": "Įrašo turinys turi būti bent 5 simbolių ilgio",
+    "contentMax": "Įrašo turinys turi būti trumpesnis nei 500 simbolių",
+    "contentRequired": "Būtinas įrašo turinys",
+    "imageFormat": "Įveskite teisingą nuorodą",
+    "imageRequired": "Būtina įrašo nuorodą",
+    "submit": "Atnaujinti"
+  },
+  "userCreateForm": {
+    "register": "Registracija",
+    "name": "Vardas",
+    "surname": "Pavardė",
+    "username": "Vartotojo vardas",
+    "email": "El. paštas",
+    "password": "Slaptažodis",
+    "namePlaceholder": "Jūsų vardas",
+    "surnamePlaceholder": "Jūsų pavardė",
+    "usernamePlaceholder": "Jūsų vartotojo varda",
+    "emailPlaceholder": "Jūsų el. paštas",
+    "passwordPlaceholder": "Jūsų slaptažodis",
+    "errorAlert": "Nepavyko užregistruoti vartotojo",
+    "nameMin": "Varda turi sudaryti bent 4 simboliai",
+    "nameMax": "Vardas turi būti trumpesnis nei 20 simbolių",
+    "nameRequired": "Vardas yra būtinas",
+    "surnameMin": "Pavardę turi sudaryti bent 4 simboliai",
+    "surnameMax": "Pavardė turi būti trumpesnė nei 20 simbolių",
+    "surnameRequired": "Pavardė yra būtina",
+    "usernameMin": "Vartotojo vardą turi sudaryti bent 4 simboliai",
+    "usernameMax": "Vartotojo vardas turi būti trumpesnis nei 20 simbolių",
+    "usernameRequired": "Vartotojo vardas yra būtinas",
+    "emailFormat": "Netinkamas el. pašto formatas",
+    "emailRequired": "El. paštas yra būtinas",
+    "passwordMin": "Slaptažodis turi būti bent 8 simbolių ilgio",
+    "passwordMax": "Slaptažodis turi būti trumpesnis nei 20 simbolių",
+    "passwordFormat": "Būtina didžioji, mažoji raidės, skaičius ir simbolis",
+    "passwordRequired": "Slaptažodis yra būtinas",
+    "submit": "Registruotis"
+  },
+  "loginForm": {
+    "username": "Vartotojo vardas",
+    "usernamePlaceholder": "Jūsų vartotojo vardas",
+    "usernameRequired": "Vartotojo vardas yra būtinas",
+    "password": "Slaptažodis",
+    "passwordPlaceholder": "Jūsų slaptažodis",
+    "passwordRequired": "Slaptažodis yra būtinas",
+    "errorAlert": "Blogi kredencialai",
+    "button": "Prisijungti",
+    "registration": "Neturite paskyros? Registruokites čia"
+  },
+  "detailedPost": {
+    "commentPlaceholder": "Jūsų komentaras",
+    "commentMin": "Komentaras turi būti bent 5 simbolių ilgio",
+    "commentMax": "Komentaras turi būti trumpesnis nei 65 simboliai",
+    "commentRequired": "Komentaro laukas negali būti tuščias",
+    "alert": "Kažkas nutiko",
+    "successAlert": "Sėkmingai palikote komentara",
+    "errorAlert": "Komentaro palikti nepavyko",
+    "noComments": "Šis įrašas neturi komentarų",
+    "button": "Komentuoti"
+  },
+  "header": {
+    "createPost": "Sukurti įrašą",
+    "login": "Prisijungti",
+    "search": "Paieška...",
+    "logout": "Atsijungti"
+  },
+  "footer": {
+    "copyright": "Visos teisės saugomos © Kelionių Blogas "
+  }
+}

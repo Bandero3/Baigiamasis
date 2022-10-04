@@ -1,0 +1,123 @@
+{
+  "posts": {
+    "alert": "There are no posts",
+    "apiAlert": "Something went wrong"
+  },
+  "favorites": {
+    "alert": "You have no favorite posts"
+  },
+  "searchedPosts": {
+    "alert": "There are no posts with the search criteria: {{query}}",
+    "apiAlert": "Something went wrong"
+  },
+  "postCreateForm": {
+    "createPost": "Create post",
+    "title": "Title",
+    "description": "Description",
+    "content": "Content",
+    "image": "Image",
+    "titlePlaceholder": "Post title",
+    "descriptionPlaceholder": "Short Description of your post",
+    "contentPlaceholder": "Post content",
+    "imagePlaceholder": "Post image url",
+    "successAlert": "Post create successfully",
+    "errorAlert": "Failed to create post",
+    "titleMin": "Post title must be at least 5 characters long",
+    "titleMax": "Post title must be less than 30 characters long",
+    "titleRequired": "Post title is required",
+    "descriptionMin": "Post description must be at least 5 characters long",
+    "descriptionMax": "Post description must be less than 30 characters long",
+    "descriptionRequired": "Post description is required",
+    "contentMin": "Post content must be at least 5 characters long",
+    "contentMax": "Post content must be less than 500 characters long",
+    "contentRequired": "Post content is required",
+    "imageFormat": "Enter correct url",
+    "imageRequired": "Post image url is required",
+    "submit": "Submit"
+  },
+  "postUpdateForm": {
+    "updatePost": "Update post",
+    "title": "Title",
+    "description": "Description",
+    "content": "Content",
+    "image": "Image",
+    "titlePlaceholder": "Post title",
+    "descriptionPlaceholder": "Short Description of your post",
+    "contentPlaceholder": "Post content",
+    "imagePlaceholder": "Post image url",
+    "errorAlert": "Failed to update post",
+    "titleMin": "Post title must be at least 5 characters long",
+    "titleMax": "Post title must be less than 30 characters long",
+    "titleRequired": "Post title is required",
+    "descriptionMin": "Post description must be at least 5 characters long",
+    "descriptionMax": "Post description must be less than 30 characters long",
+    "descriptionRequired": "Post description is required",
+    "contentMin": "Post content must be at least 5 characters long",
+    "contentMax": "Post content must be less than 500 characters long",
+    "contentRequired": "Post content is required",
+    "imageFormat": "Enter correct url",
+    "imageRequired": "Post image url is required",
+    "submit": "Update"
+  },
+  "userCreateForm": {
+    "register": "Registration",
+    "name": "Name",
+    "surname": "Surname",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "namePlaceholder": "Your name",
+    "surnamePlaceholder": "Your surname",
+    "usernamePlaceholder": "Your username",
+    "emailPlaceholder": "Your email",
+    "passwordPlaceholder": "Your password",
+    "errorAlert": "Failed to register user",
+    "nameMin": "Name must be at least 4 characters long",
+    "nameMax": "Name must be less than 20 characters long",
+    "nameRequired": "Name is required",
+    "surnameMin": "Surname must be at least 4 characters long",
+    "surnameMax": "Surname must be less than 20 characters long",
+    "surnameRequired": "Surname is required",
+    "usernameMin": "Username must be at least 4 characters long",
+    "usernameMax": "Username must be less than 20 characters long",
+    "usernameRequired": "Username is required",
+    "emailFormat": "Not valid email format",
+    "emailRequired": "Email is required",
+    "passwordMin": "Password must be at least 8 characters long",
+    "passwordMax": "Password must be less than 20 characters long",
+    "passwordFormat": "Uppercase, Lowercase, number and special character required",
+    "passwordRequired": "Password is required",
+    "submit": "Register"
+  },
+  "loginForm": {
+    "username": "User Name",
+    "usernamePlaceholder": "Your user name",
+    "usernameRequired": "User name is required",
+    "password": "Password",
+    "passwordPlaceholder": "Your password",
+    "passwordRequired": "Password is required",
+    "errorAlert": "Bad credentials",
+    "button": "Login",
+    "registration": "Don't have an account? Register here"
+  },
+  "detailedPost": {
+    "commentPlaceholder": "Your comment",
+    "commentMin": "Comment must be at least 5 characters long",
+    "commentMax": "Comment must be less than 65 characters long",
+    "commentRequired": "Comment field can't be empty",
+    "alert": "Something went wrong",
+    "successAlert": "Comment left successfully",
+    "errorAlert": "Failed to leave comment",
+    "noComments": "There are no comments on this post",
+    "button": "Comment"
+  },
+  "header": {
+    "createPost": "Create Post",
+    "login": "Login",
+    "search": "Search...",
+    "logout": "Logout"
+  },
+  "footer": {
+    "copyright": "Copyright © Travel Blog "
+  }
+}
